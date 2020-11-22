@@ -2,7 +2,7 @@
 
 # Grafana Data Source Plugin for cLoki
 
-Datasource for [cLoki](https://github.com/lmangani/cloki) with experimental CliQ Support (Clickhouse Loki)
+Datasource for [cLoki](https://github.com/lmangani/cloki) with experimental **CliQL** Support *(Clickhouse Loki Query Language)*
 
 ## Status
 
