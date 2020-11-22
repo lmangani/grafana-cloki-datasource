@@ -1,0 +1,38 @@
+{
+  "type": "datasource",
+  "name": "cLoki",
+  "id": "cloki",
+  "category": "logging",
+
+  "logs": true,
+  "metrics": true,
+  "alerting": false,
+  "annotations": true,
+  "streaming": false,
+
+  "queryOptions": {
+    "maxDataPoints": true
+  },
+
+  "info": {
+    "description": "Like Loki, but for Clickhouse.",
+    "author": {
+      "name": "QXIP BV",
+      "url": "https://github.com/qxip"
+    },
+    "logos": {
+      "small": "img/loki_icon.svg",
+      "large": "img/loki_icon.svg"
+    },
+    "links": [
+      {
+        "name": "Learn more",
+        "url": "https://github.com/lmangani/cloki"
+      },
+      {
+        "name": "GitHub Project",
+        "url": "https://github.com/lmangani/cloki"
+      }
+    ]
+  }
+}
